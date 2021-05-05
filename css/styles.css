@@ -170,3 +170,11 @@ hr {
 p {
     line-height: 2;
 }
+
+a { /* Style Hyperlinks */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #132c33;
+}
